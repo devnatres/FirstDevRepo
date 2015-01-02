@@ -1,4 +1,4 @@
 dashproject
 ===========
 
-Firs repository on GitHub: game project
+An amateur game for my first repository on GitHub.
