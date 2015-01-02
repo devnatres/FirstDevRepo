@@ -1,4 +1,4 @@
-dashproject
+FirstDevRepo
 ===========
 
-An amateur game for my first repository on GitHub.
+My first repository on GitHub.
